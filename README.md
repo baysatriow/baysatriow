@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **~ On Progres**
 
-- 🌱 I’m currently learning **Python, Java, HTML & CSS**
+- 🌱 I’m currently learning **HTML, CSS, Javascript, PHP,**
 
 - 👯 I’m looking to collaborate on **~ On Progres**
 
@@ -16,11 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [~ On Progess](~ On Progess)
 
-- 📝 I regularly write articles on [~ On Progress](~ On Progress)
-
-- 📫 How to reach me **bayugoldenstd@gmail.com**
-
-- 📄 Know about my experiences [~ On Progress](~ On Progress)
+- 📫 How to reach me **bayusatriowid@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
