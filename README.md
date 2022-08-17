@@ -5,7 +5,7 @@ Hi, I'm Bayu Satrio Wibowo
 <br/>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
 <img align="left" src="https://github.com/baysatriow/baysatriow/blob/818a574bc774adc00ca6b7df8cf0f4975bfc8d86/Logo%20Goldenz%20Highres-01.png" alt="Bayu" width="320" />
@@ -80,9 +80,9 @@ baysatriow@github
 
 |                                                                    Bayu Satrio Wibowo Stats                                                                     |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| ![Vishal's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=baysatriow&theme=react-dark&hide_border=true&area=true) |
-| ![Vishal's github stats](https://github-readme-stats.vercel.app/api?username=baysatriow&show_icons=true&theme=algolia)              | 
-| ![Vishal's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=baysatriow&theme=algolia)                    | 
+| ![Bayu Satrio Wibowo 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=baysatriow&theme=react-dark&hide_border=true&area=true) |
+| ![Bayu Satrio Wibowo github stats](https://github-readme-stats.vercel.app/api?username=baysatriow&show_icons=true&theme=algolia)              | 
+| ![Bayu Satrio Wibowo GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=baysatriow&theme=algolia)                    | 
     
 
 |                                                                                                     Bayu Satrio Wibowo Stars                                                                                                       |                                                           Top Languages                                                           |      
