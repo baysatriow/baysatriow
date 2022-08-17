@@ -15,7 +15,7 @@ Hi, I'm Bayu Satrio Wibowo
 ```
 baysatriow@github
 -------------------------
-💻 I am a self taught Full Stack Developer and a Machine Learning Developer
+💻 I am a self taught Full Stack Developer
 📚 I have a Bachelors in Software Engineer from the SMK Telkom Lampung
 📝 I have a strong interest in Data Science and Artificial Intelligence
 🌱 Learning about Computer and Machine Learning stuff
