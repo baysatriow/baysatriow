@@ -62,7 +62,7 @@ baysatriow@github
 <p>
     <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white"></a>
     <a href="#"><img alt="Chrome" src="https://img.shields.io/badge/Chrome-3DDC84?logo=google-chrome&logoColor=white"></a>
-    <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
+    <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=whitbayusatriowid@gmail.come"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
     <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a>
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
@@ -80,14 +80,14 @@ baysatriow@github
 ## GitHub Stats
 
 
-|                                                                     Vishal's Stats                                                                     |
+|                                                                    Bayu Satrio Wibowo Stats                                                                     |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | ![Vishal's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=baysatriow&theme=react-dark&hide_border=true&area=true) |
 | ![Vishal's github stats](https://github-readme-stats.vercel.app/api?username=baysatriow&show_icons=true&theme=algolia)              | 
 | ![Vishal's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=baysatriow&theme=algolia)                    | 
     
 
-|                                                                                                      Vishal's Stars                                                                                                       |                                                           Top Languages                                                           |      
+|                                                                                                     Bayu Satrio Wibowo Stars                                                                                                       |                                                           Top Languages                                                           |      
 |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
 | ![Github Stars](https://github-readme-stats.vercel.app/api?username=baysatriow&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya664&langs_count=8&theme=algolia&layout=compact) |
 
