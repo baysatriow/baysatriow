@@ -1,11 +1,12 @@
 <h1 align="center">
 Hi, I'm Bayu Satrio Wibowo
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
- <img src="https://gpvc.arturio.dev/baysatriow" alt="Profile views" align='right'/> <a href="https://github.com/baysatriow/baysatriow/"> </a> 
+  <img src="https://gpvc.arturio.dev/baysatriow" alt="Profile views" align='right'/> <a href="https://github.com/baysatriow/baysatriow/"> 
+  </a> 
 <br/>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;Gamer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
 <img align="left" src="https://github.com/baysatriow/baysatriow/blob/818a574bc774adc00ca6b7df8cf0f4975bfc8d86/Logo%20Goldenz%20Highres-01.png" alt="Bayu" width="320" />
@@ -18,13 +19,13 @@ baysatriow@github
 📚 I have a Bachelors in Software Engineer from the SMK Telkom Lampung
 📝 I have a strong interest in Data Science and Artificial Intelligence
 🌱 Learning about Computer and Machine Learning stuff
-🌟 Main languages: Html & CSS, 
+🌟 Main languages: Html & CSS,
 🚩 Interested in Full Stack Machine Learning Web Development
 💖 In a complicated relationship with Neural Networks
 🎵 Love lofi, jazz and soft music
 ```
-<hr>
 
+<hr>
 
 ## 🛠️ My Favorite Tools
 
@@ -68,28 +69,23 @@ baysatriow@github
 </p>
 
 ### 👨🏽‍💻 Workspace
+
 <p>
-    <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows11-999999?style=for-the-badge&logo=windows&logoColor=white"></a>
+    <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-11-999999?style=for-the-badge&logo=windows&logoColor=white"></a>
     <a href="#"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 </p>
 
-
 ## GitHub Stats
 
-
-|                                                                    Bayu Satrio Wibowo Stats                                                                     |
-|:------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|                                                            Bayu Satrio Wibowo Stats                                                            |
+| :--------------------------------------------------------------------------------------------------------------------------------------------: |
 | ![Bayu Satrio Wibowo 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=baysatriow&theme=react-dark&hide_border=true&area=true) |
-| ![Bayu Satrio Wibowo github stats](https://github-readme-stats.vercel.app/api?username=baysatriow&show_icons=true&theme=algolia)              | 
-| ![Bayu Satrio Wibowo GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=baysatriow&theme=algolia)                    | 
-    
+|        ![Bayu Satrio Wibowo github stats](https://github-readme-stats.vercel.app/api?username=baysatriow&show_icons=true&theme=algolia)        |
+|              ![Bayu Satrio Wibowo GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=baysatriow&theme=algolia)              |
 
-|                                                                                                     Bayu Satrio Wibowo Stars                                                                                                       |                                                           Top Languages                                                           |      
-|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
+|                                                                                              Bayu Satrio Wibowo Stars                                                                                              |                                                           Top Languages                                                           |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------: |
 | ![Github Stars](https://github-readme-stats.vercel.app/api?username=baysatriow&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya664&langs_count=8&theme=algolia&layout=compact) |
-
-
-
 
 <table style="border: none">
   <tr>
@@ -99,7 +95,7 @@ baysatriow@github
 
 If you have any questions about front-end web development, feel free to <a href="mailto:bayusatriowid@gmail.com">contact me through email</a> me.
 
-You can hire me as a freelancer on <a href="https://www.fiverr.com/">Fiverr</a> or <a href="https://www.linkedin.com/in/baysatriow">LinkedIn</a> to deploy your machine learning project on web.
+You can hire me as a freelancer on <a href="https://www.linkedin.com/in/baysatriow">LinkedIn</a> to deploy your machine learning project on web.
 
   </td>
   <td width="50%" valign="top">
@@ -115,9 +111,6 @@ You can hire me as a freelancer on <a href="https://www.fiverr.com/">Fiverr</a> 
   </tr>
 </table>
 
-------
+---
+
 Credits: [baysatriow](https://github.com/baysatriow)
-
-
-
-
