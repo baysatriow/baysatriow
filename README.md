@@ -20,8 +20,7 @@ baysatriow@github
 📝 I have a strong interest in Data Science and Artificial Intelligence
 🌱 Learning about Computer and Machine Learning stuff
 🌟 Main languages: Html & CSS,
-🚩 Interested in Full Stack Machine Learning Web Development
-💖 In a complicated relationship with Neural Networks
+🚩 Interested in Full Stack Web Development
 🎵 Love lofi, jazz and soft music
 ```
 
