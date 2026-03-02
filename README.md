@@ -16,19 +16,9 @@ baysatriow@github
 📚 Informatics Student at Telkom University
 📝 Strong interest in Data Science and Artificial Intelligence
 🌱 Building innovative solutions with modern web & IoT tech
-� IEEE YESIST12 Finalist (Malaysia) | GENETIC USM Champion
-� Side interest in Digital Forensics
-🎵 Love lofi, jazz and soft music
+🔍 Side interest in Digital Forensics
+🎵 Love lofi, jazz, JJ Indonesia, and harmoni Orkestra
 ```
-
-<hr>
-
-## 🏆 Achievements
-
-- 🥇 **Champion** — GENETIC USM Competition
-- 🏅 **Finalist** — IEEE YESIST12, Malaysia (International)
-
----
 
 ## 🛠️ My Tech Stack
 
