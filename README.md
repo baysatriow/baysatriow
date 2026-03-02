@@ -92,12 +92,12 @@ baysatriow@github
 |                                                                 Bayu Satrio Wibowo Stats                                                                  |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | ![Bayu Satrio Wibowo github graph](https://github-readme-activity-graph.vercel.app/graph?username=baysatriow&theme=react-dark&hide_border=true&area=true) |
-|             ![Bayu Satrio Wibowo github stats](https://github-readme-stats.vercel.app/api?username=baysatriow&show_icons=true&theme=algolia)              |
+|           ![Bayu Satrio Wibowo github stats](https://github-readme-stats-fast.vercel.app/api?username=baysatriow&show_icons=true&theme=algolia)           |
 |                   ![Bayu Satrio Wibowo GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=baysatriow&theme=algolia)                    |
 
-|                                                                                              Bayu Satrio Wibowo Stars                                                                                              |                                                           Top Languages                                                            |
-| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------: |
-| ![Github Stars](https://github-readme-stats.vercel.app/api?username=baysatriow&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baysatriow&langs_count=8&theme=algolia&layout=compact) |
+|                                                                                                Bayu Satrio Wibowo Stars                                                                                                 |                                                              Top Languages                                                              |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------: |
+| ![Github Stars](https://github-readme-stats-fast.vercel.app/api?username=baysatriow&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) | ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=baysatriow&langs_count=8&theme=algolia&layout=compact) |
 
 <table style="border: none">
   <tr>
