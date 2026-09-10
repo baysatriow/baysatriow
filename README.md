@@ -28,7 +28,7 @@
 
 <br>
 
-<!-- Animated Contribution Terminal Heatmap (Daily Automated Workflow) -->
+<!-- Animated Contribution Terminal Heatmap -->
 <img src="./contrib-heatmap.svg" width="860" alt="GitHub Contribution Terminal Heatmap" />
 
 </div>

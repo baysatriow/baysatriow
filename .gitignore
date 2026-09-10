@@ -1,0 +1,10 @@
+# Local scripts & data
+scripts/
+data/
+.github/
+update_stats.bat
+update_stats.ps1
+preview.html
+*.log
+__pycache__/
+*.pyc
