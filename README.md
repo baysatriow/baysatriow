@@ -10,10 +10,10 @@
 
 ## Bayu Satrio Wibowo
 
-**Informatics @ Telkom University · Autonomous Vehicle Researcher · Software & Mobile Engineer**
+**Informatics @ Telkom University · Autonomous Vehicle Researcher · Full Stack Web Dev**
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=19&pause=1200&color=22D3EE&center=true&vCenter=true&width=640&lines=Autonomous+Vehicle+Perception+%26+Localization;Full-Stack+Software+%26+Mobile+App+Engineer;ROS+2+%2F%2F+Sensor+Fusion+%2F%2F+LiDAR+Point+Cloud;Building+intelligent+digital+%26+autonomous+systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=19&pause=1200&color=22D3EE&center=true&vCenter=true&width=640&lines=Autonomous+Vehicle+Perception+%26+Localization;Full+Stack+Web+Dev+%26+Mobile+Apps;ROS+2+%2F%2F+Sensor+Fusion+%2F%2F+LiDAR+Point+Cloud;Building+intelligent+digital+%26+autonomous+systems" alt="Typing SVG" />
 </a>
 
 <p>

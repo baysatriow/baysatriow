@@ -37,7 +37,7 @@ ROWS = [
     ("kv", "Now", "Informatics @ Telkom University"),
     ("kv", "Primary", "Autonomous Vehicle (AV) Researcher"),
     ("kv", "Focus", "LiDAR Perception & Sensor Fusion"),
-    ("kv", "Also", "Software & Mobile Engineer"),
+    ("kv", "Also", "Full Stack Web & Mobile Dev"),
     ("kv", "Edu", "B.S. Informatics, Telkom Univ"),
     ("gap",),
     ("sec", "Core Stack"),
