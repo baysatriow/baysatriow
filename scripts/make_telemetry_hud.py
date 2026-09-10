@@ -3,7 +3,8 @@
 Generate an Autonomous Vehicle Telemetry HUD status strip SVG:
 - Matches width 860px exactly
 - Glowing active status indicator
-- Live system status, sensor health, and ROS 2 Jazzy pipeline metrics
+- Compact, well-spaced telemetry metrics (never clips or overflows)
+- Dedicated right-hand ROS 2 badge
 - Strictly ZERO Mdash
 """
 import os
@@ -41,16 +42,21 @@ svg = f"""<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewB
     <animate attributeName="opacity" values="0.8;0" dur="2s" repeatCount="indefinite"/>
   </circle>
 
-  <!-- Telemetry text segments (strictly NO Mdash) -->
-  <text x="48" y="28" font-size="11.5" font-weight="700">
+  <!-- Left Telemetry text segments (strictly NO Mdash) -->
+  <text x="46" y="28" font-size="10.5" font-weight="700">
     <tspan fill="{MUTED}">[SYS]</tspan> <tspan fill="{GREEN}">AV-CORE: ONLINE</tspan>
     <tspan fill="{MUTED}">  ::  </tspan>
-    <tspan fill="{MUTED}">[SENSORS]</tspan> <tspan fill="{CYAN}">LiDAR 360&#176;</tspan><tspan fill="{MUTED}"> | </tspan><tspan fill="{CYAN}">STEREO 60FPS</tspan><tspan fill="{MUTED}"> | </tspan><tspan fill="{CYAN}">RADAR 77GHz</tspan>
+    <tspan fill="{MUTED}">[SENSORS]</tspan> <tspan fill="{CYAN}">LiDAR 360&#176;</tspan><tspan fill="{MUTED}"> | </tspan><tspan fill="{CYAN}">STEREO CAM</tspan><tspan fill="{MUTED}"> | </tspan><tspan fill="{CYAN}">RADAR 77GHz</tspan>
     <tspan fill="{MUTED}">  ::  </tspan>
-    <tspan fill="{MUTED}">[PERCEPTION]</tspan> <tspan fill="{AMBER}">POINTCLOUD + EKF FUSION</tspan>
-    <tspan fill="{MUTED}">  ::  </tspan>
-    <tspan fill="{MUTED}">[FRAME]</tspan> <tspan fill="{TEXT}">ROS 2</tspan>
+    <tspan fill="{MUTED}">[FUSION]</tspan> <tspan fill="{AMBER}">POINTCLOUD + EKF</tspan>
   </text>
+
+  <!-- Right-aligned ROS 2 Stack Badge -->
+  <g transform="translate({W - 136}, 13)">
+    <rect width="116" height="22" rx="4" fill="{BG2}" stroke="{FRAME}" stroke-width="1"/>
+    <circle cx="12" cy="11" r="3" fill="{GREEN}"/>
+    <text x="22" y="15" font-size="10" font-weight="700" fill="{TEXT}">ROS 2 JAZZY</text>
+  </g>
 </svg>"""
 
 with open(OUT, "w", encoding="utf-8") as f:

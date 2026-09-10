@@ -18,14 +18,19 @@
     <animate attributeName="opacity" values="0.8;0" dur="2s" repeatCount="indefinite"/>
   </circle>
 
-  <!-- Telemetry text segments (strictly NO Mdash) -->
-  <text x="48" y="28" font-size="11.5" font-weight="700">
+  <!-- Left Telemetry text segments (strictly NO Mdash) -->
+  <text x="46" y="28" font-size="10.5" font-weight="700">
     <tspan fill="#7d8590">[SYS]</tspan> <tspan fill="#39d353">AV-CORE: ONLINE</tspan>
     <tspan fill="#7d8590">  ::  </tspan>
-    <tspan fill="#7d8590">[SENSORS]</tspan> <tspan fill="#22d3ee">LiDAR 360&#176;</tspan><tspan fill="#7d8590"> | </tspan><tspan fill="#22d3ee">STEREO 60FPS</tspan><tspan fill="#7d8590"> | </tspan><tspan fill="#22d3ee">RADAR 77GHz</tspan>
+    <tspan fill="#7d8590">[SENSORS]</tspan> <tspan fill="#22d3ee">LiDAR 360&#176;</tspan><tspan fill="#7d8590"> | </tspan><tspan fill="#22d3ee">STEREO CAM</tspan><tspan fill="#7d8590"> | </tspan><tspan fill="#22d3ee">RADAR 77GHz</tspan>
     <tspan fill="#7d8590">  ::  </tspan>
-    <tspan fill="#7d8590">[PERCEPTION]</tspan> <tspan fill="#f59e0b">POINTCLOUD + EKF FUSION</tspan>
-    <tspan fill="#7d8590">  ::  </tspan>
-    <tspan fill="#7d8590">[FRAME]</tspan> <tspan fill="#e6edf3">ROS 2</tspan>
+    <tspan fill="#7d8590">[FUSION]</tspan> <tspan fill="#f59e0b">POINTCLOUD + EKF</tspan>
   </text>
+
+  <!-- Right-aligned ROS 2 Stack Badge -->
+  <g transform="translate(724, 13)">
+    <rect width="116" height="22" rx="4" fill="#111722" stroke="#30363d" stroke-width="1"/>
+    <circle cx="12" cy="11" r="3" fill="#39d353"/>
+    <text x="22" y="15" font-size="10" font-weight="700" fill="#e6edf3">ROS 2 JAZZY</text>
+  </g>
 </svg>
