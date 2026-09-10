@@ -1,0 +1,47 @@
+name: Update Profile Art
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - "scripts/**"
+
+jobs:
+  update-art:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: |
+          pip install -r scripts/requirements.txt
+
+      - name: Scrape contributions and render SVGs
+        env:
+          GH_PROFILE_USER: ${{ github.repository_owner }}
+        run: |
+          python scripts/fetch_contributions.py
+          python scripts/render_heatmap_svg.py
+          python scripts/make_info_card.py
+          python scripts/make_telemetry_hud.py
+          python scripts/make_av_vector.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/contributions.json contrib-heatmap.svg info-card.svg av-telemetry.svg av-perception.svg
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: refresh profile contributions [skip ci]" && git push)

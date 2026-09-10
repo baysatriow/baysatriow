@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="48" viewBox="0 0 860 48" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+  <defs>
+    <linearGradient id="tbg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#111722"/>
+      <stop offset="50%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#111722"/>
+    </linearGradient>
+  </defs>
+  <rect width="860" height="48" rx="8" fill="url(#tbg)"/>
+  <rect x="0.5" y="0.5" width="859" height="47" rx="8" fill="none" stroke="#30363d" stroke-width="1"/>
+
+  <!-- Pulsing green status beacon -->
+  <circle cx="28" cy="24" r="5" fill="#39d353">
+    <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="28" cy="24" r="9" fill="none" stroke="#39d353" stroke-width="1.2" opacity="0.6">
+    <animate attributeName="r" values="6;13" dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.8;0" dur="2s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Telemetry text segments (strictly NO Mdash) -->
+  <text x="48" y="28" font-size="11.5" font-weight="700">
+    <tspan fill="#7d8590">[SYS]</tspan> <tspan fill="#39d353">AV-CORE: ONLINE</tspan>
+    <tspan fill="#7d8590">  ::  </tspan>
+    <tspan fill="#7d8590">[SENSORS]</tspan> <tspan fill="#22d3ee">LiDAR 360&#176;</tspan><tspan fill="#7d8590"> | </tspan><tspan fill="#22d3ee">STEREO 60FPS</tspan><tspan fill="#7d8590"> | </tspan><tspan fill="#22d3ee">RADAR 77GHz</tspan>
+    <tspan fill="#7d8590">  ::  </tspan>
+    <tspan fill="#7d8590">[PERCEPTION]</tspan> <tspan fill="#f59e0b">POINTCLOUD + EKF FUSION</tspan>
+    <tspan fill="#7d8590">  ::  </tspan>
+    <tspan fill="#7d8590">[FRAME]</tspan> <tspan fill="#e6edf3">ROS 2</tspan>
+  </text>
+</svg>
